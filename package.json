@@ -1,8 +1,9 @@
 {
     "name": "prettier-config-generator",
     "displayName": "Prettier Config Generator for VSCode",
+    "publisher": "Skyyinfinity",
     "description": "Create Prettier configuration file based on user settings.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.99.0"
     },
@@ -55,6 +56,5 @@
     "repository": {
         "type": "github",
         "url": "https://github.com/SkyyInfinity/prettier-config-generator"
-    },
-    "publisher": "Skyyinfinity"
+    }
 }

@@ -1,5 +1,11 @@
 # Prettier Config Generator
 
+<!-- MIT License -->
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/skyyinfinity.prettier-config-generator)](https://marketplace.visualstudio.com/items?itemName=skyyinfinity.prettier-config-generator)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SkyyInfinity/prettier-config-generator/blob/main/LICENSE.md)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/skyyinfinity.prettier-config-generator)](https://marketplace.visualstudio.com/items?itemName=skyyinfinity.prettier-config-generator)
+
+
 This extension generates a Prettier configuration file for your project based on the selected options. It provides a user-friendly interface to customize your Prettier settings and automatically creates a `.prettierrc` file in your project directory.
 
 ## Features
