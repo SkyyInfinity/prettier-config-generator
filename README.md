@@ -1,5 +1,14 @@
 # Prettier Config Generator
 
+<!-- MIT License -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SkyyInfinity/prettier-config-generator/blob/main/LICENSE.md)
+<!-- VS Code Marketplace Version -->
+[![Version](https://vsmarketplacebadge.apphb.com/version/<ton-publisher>.<ton-extension>.svg)](https://marketplace.visualstudio.com/items?itemName=<ton-publisher>.<ton-extension>)
+<!-- Install counts -->
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/<ton-publisher>.<ton-extension>.svg)](https://marketplace.visualstudio.com/items?itemName=<ton-publisher>.<ton-extension>)
+<!-- Download counts -->
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/<ton-publisher>.<ton-extension>.svg)](https://marketplace.visualstudio.com/items?itemName=<ton-publisher>.<ton-extension>)
+
 This extension generates a Prettier configuration file for your project based on the selected options. It provides a user-friendly interface to customize your Prettier settings and automatically creates a `.prettierrc` file in your project directory.
 
 ## Features
